@@ -173,6 +173,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QRFJAHNS
 
+[Document9]
+DocumentPath=Locsolo.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=ProjectOutputs\v4\Bill of Materials-PCB.xlsx
 DItemRevisionGUID=
@@ -249,6 +266,10 @@ DItemRevisionGUID=
 DocumentPath=ProjectOutputs\v4\PCB.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=ProjectOutputs\v4\Pick Place for PCB.csv
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\AD13\Library\*.*
 IncludeSubFolders=1
@@ -311,7 +332,7 @@ OutputDir=ProjectOutputs
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -432,7 +453,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -533,7 +554,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -555,7 +576,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -791,7 +812,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -830,7 +851,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1010,7 +1031,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -1054,7 +1075,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=ExportIDF
 OutputName1=Export IDF
@@ -1115,7 +1136,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=LBP6030w/6018w - WIFI
+TargetPrinter=NPIDADC2F (HP LaserJet 200 colorMFP M276n)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files

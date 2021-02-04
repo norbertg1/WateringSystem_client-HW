@@ -9,4 +9,7 @@ The connection between MySQL and Mosquitto is handled with short program written
 
 See: https://github.com/xnorbi/Watering-system/blob/master/server_on_ubuntu/MySQL/database_initialization_commands
 
-For photos see other folder.
+
+<img src="pics/IMG_20180410_012308.jpg" alt=" " width="1000"/>
+<img src="pics/IMG_20180206_225416.jpg" alt=" " width="1000"/>
+<img src="pics/IMG_20180206_225424.jpg" alt=" " width="1000"/>
