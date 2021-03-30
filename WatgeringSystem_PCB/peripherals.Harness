@@ -1,0 +1,2 @@
+I2C=SCL,SDA
+Peripherals={I2C:I2C},Analog_out_soil_moisture,PWM_soil_moisture,5V_EN0,Flowmeter

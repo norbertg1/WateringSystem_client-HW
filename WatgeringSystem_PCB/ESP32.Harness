@@ -1,0 +1,3 @@
+I2C=SDA,SCL
+Motor=control1,control2,sensor1,sensor2
+Peripherals={I2C:I2C},Analog_out_soil_moisture,PWM_soil_moisture,5V_EN0,Flowmeter
