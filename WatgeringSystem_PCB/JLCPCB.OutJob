@@ -67,7 +67,7 @@ Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
 Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1439|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration2_Name3=GroupOrder
-Configuration2_Item3=Comment=True|Footprint=True|Part=True
+Configuration2_Item3=Comment=True|Footprint=True|Part=True|LCSC Part #=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Quantity=Down
 Configuration2_Name5=VisibleOrder
@@ -167,7 +167,7 @@ FFmpegPixelFormat4=0
 FFmpegQuality4=80
 WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
-OutputFilePath5=D:\saját\Watering system\WateringSystem-hardware\WatgeringSystem_PCB\Project Outputs for WatgeringSystem_PCB\WatgeringSystem_PCB_2021-03-30\
+OutputFilePath5=D:\saját\Watering system\WateringSystem-hardware\WatgeringSystem_PCB\Project Outputs for WatgeringSystem_PCB\WatgeringSystem_PCB_2021-04-02\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for WatgeringSystem_PCB
 OutputPathMedia5==ProjectName + '_' + CurrentDate
@@ -196,7 +196,7 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
 OpenOutputs4=1
-RelativeOutputPath5=D:\saját\Watering system\WateringSystem-hardware\WatgeringSystem_PCB\Project Outputs for WatgeringSystem_PCB\WatgeringSystem_PCB_2021-03-30\
+RelativeOutputPath5=D:\saját\Watering system\WateringSystem-hardware\WatgeringSystem_PCB\Project Outputs for WatgeringSystem_PCB\WatgeringSystem_PCB_2021-04-02\
 OpenOutputs5=0
 AddToProject5=0
 TimestampFolder5=0
